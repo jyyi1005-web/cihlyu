@@ -1,0 +1,54 @@
+圖片替換指南
+以下是所有需要替換的圖片位置及建議的JPG檔案名稱：
+
+LOGO (50x50)
+logo.jpg - 左上角LOGO
+
+首頁圖片
+Hero Banner 輪播圖 (1920x1080)
+
+hero-banner-1.jpg - 第一張輪播圖
+
+hero-banner-2.jpg - 第二張輪播圖
+
+辦公室環境圖
+
+office-environment-1.jpg - 首頁辦公室環境圖
+
+關於我們頁面圖片
+團隊工作照
+
+team-working-1.jpg - 團隊工作照片
+
+專業團隊頁面圖片 (600x600)
+律師個人照片
+
+liu-tianxi.jpg - 劉添錫律師
+
+zhang-yuxian.jpg - 張育銜律師
+
+liao-wanru.jpg - 廖婉茹律師
+
+法務團隊照片
+
+liu-mengjie.jpg - 劉孟杰主任
+
+li-mengrong.jpg - 李孟融組長
+
+zheng-weiren.jpg - 鄭惟仁組長
+
+聯絡我們頁面圖片
+LINE QR Code
+
+line-qrcode.jpg - LINE官方帳號QR Code
+
+其他建議圖片
+您可以根據需要添加更多圖片：
+
+office-environment-2.jpg - 其他辦公室環境
+
+meeting-room.jpg - 會議室照片
+
+team-working-2.jpg - 其他團隊工作照
+
+請將這些JPG圖片放在與HTML檔案相同的資料夾中，或根據實際路徑調整src屬性。所有圖片都已經設置為響應式，會自動適應不同螢幕尺寸。
